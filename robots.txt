@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://korbit-referral.vercel.app/sitemap.xml
